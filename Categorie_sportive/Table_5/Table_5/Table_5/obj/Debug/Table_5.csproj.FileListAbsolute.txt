@@ -1,7 +1,0 @@
-C:\Users\190133\Desktop\c#\Table_5\Table_5\Table_5\bin\Debug\Table_5.exe.config
-C:\Users\190133\Desktop\c#\Table_5\Table_5\Table_5\bin\Debug\Table_5.exe
-C:\Users\190133\Desktop\c#\Table_5\Table_5\Table_5\bin\Debug\Table_5.pdb
-C:\Users\190133\Desktop\c#\Table_5\Table_5\Table_5\obj\Debug\Table_5.csprojAssemblyReference.cache
-C:\Users\190133\Desktop\c#\Table_5\Table_5\Table_5\obj\Debug\Table_5.csproj.CoreCompileInputs.cache
-C:\Users\190133\Desktop\c#\Table_5\Table_5\Table_5\obj\Debug\Table_5.exe
-C:\Users\190133\Desktop\c#\Table_5\Table_5\Table_5\obj\Debug\Table_5.pdb
