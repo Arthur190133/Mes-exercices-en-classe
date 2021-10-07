@@ -1,7 +1,0 @@
-C:\Users\190133\Desktop\c#\Categorie_sportive\Categorie_sportive\bin\Debug\Categorie_sportive.exe.config
-C:\Users\190133\Desktop\c#\Categorie_sportive\Categorie_sportive\bin\Debug\Categorie_sportive.exe
-C:\Users\190133\Desktop\c#\Categorie_sportive\Categorie_sportive\bin\Debug\Categorie_sportive.pdb
-C:\Users\190133\Desktop\c#\Categorie_sportive\Categorie_sportive\obj\Debug\Categorie_sportive.csprojAssemblyReference.cache
-C:\Users\190133\Desktop\c#\Categorie_sportive\Categorie_sportive\obj\Debug\Categorie_sportive.csproj.CoreCompileInputs.cache
-C:\Users\190133\Desktop\c#\Categorie_sportive\Categorie_sportive\obj\Debug\Categorie_sportive.exe
-C:\Users\190133\Desktop\c#\Categorie_sportive\Categorie_sportive\obj\Debug\Categorie_sportive.pdb
